@@ -1,0 +1,5 @@
+[
+    {"DateTime":"9/11/2001 11.01AM", "ID":1, "PaidAmount":2329.98, "ProductList":[{"Category":"RAM","Description":"DDR4, 16GB(2 x 8GB), 3200MHz Clock Speed, with LED","ID":1,"Name":"Corsair Vengeance LED","Price":829.99,"Quantity":1},{"Category":"Motherboard","Description":"ATX, Intel Z590, LGA 1151","ID":15,"Name":"Gigabyte Z390 Gaming X","Price":1499.99,"Quantity":1}]},
+    {"DateTime":"9/11/2001 11.02AM", "ID":2, "PaidAmount":2999.99, "ProductList":[{"Category":"CPU","Description":"Zen 3, 12C 24T, 3.7GHz/4.8GHz, AM4","ID":20,"Name":"AMD Ryzen 9 5900X","Price":2999.99,"Quantity":1}]},
+    {"DateTime":"9/11/2001 11.03AM", "ID":3, "PaidAmount":1799.99, "ProductList":[{"Category":"Monitor","Description":"38-inch, 21:9, 3840 x 1600, 1ms","ID":7,"Name":"LG UltraGear 38GN950","Price":1799.99,"Quantity":1}]}
+]
