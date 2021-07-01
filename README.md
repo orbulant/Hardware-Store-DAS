@@ -1,7 +1,16 @@
 # Hardware-Store-DAS
 A Command-Line Interface Hardware Store Inventory and Transaction System that utilizes data structure and algorithm
 
+- Sample Screenshots
+- 
+Generic Node Type
 ![Generic Node Type](node.png?raw=true "Generic Node Type")
+
+Node Subtype
+![Node Subtype](node.png?raw=true "Node Subtype")
+
+Sample QuickSort Partition Algorithm
+![Sample QuickSort Partition Algorithm](node.png?raw=true "Sample QuickSort Partition Algorithm")
 
 ## Test Cases
 ### Product
