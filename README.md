@@ -1,5 +1,7 @@
 # Hardware-Store-DAS
-A Command-Line Interface Hardware Store Inventory and Transaction System that utilizes data structure and algorithm.
+A Command-Line Interface Hardware Store Inventory and Transaction System that utilizes data structure and algorithm
+
+![Generic Node Type](node.png?raw=true "Generic Node Type")
 
 ## Test Cases
 ### Product
