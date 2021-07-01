@@ -3,13 +3,13 @@ A Command-Line Interface Hardware Store Inventory and Transaction System that ut
 
 ### Sample Screenshots
 
-1. Generic Node Type
+1. Generic Node Type<br />
 ![Generic Node Type](node.png?raw=true "Generic Node Type")
 
-2. Node Subtype
+2. Node Subtype<br />
 ![Node Subtype](node.png?raw=true "Node Subtype")
 
-3. Sample QuickSort Partition Algorithm
+3. Sample QuickSort Partition Algorithm<br />
 ![Sample QuickSort Partition Algorithm](node.png?raw=true "Sample QuickSort Partition Algorithm")
 
 ## Test Cases
