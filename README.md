@@ -2,7 +2,7 @@
 A Command-Line Interface Hardware Store Inventory and Transaction System that utilizes data structure and algorithm
 
 - Sample Screenshots
-- 
+
 Generic Node Type
 ![Generic Node Type](node.png?raw=true "Generic Node Type")
 
