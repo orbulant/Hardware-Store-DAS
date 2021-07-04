@@ -10,7 +10,7 @@ A Command-Line Interface Hardware Store Inventory and Transaction System that ut
 ![Node Subtype](node.png?raw=true "Node Subtype")
 
 3. Sample QuickSort Partition Algorithm<br />
-![Sample QuickSort Partition Algorithm]("partition sort.png"?raw=true "Sample QuickSort Partition Algorithm")
+![Sample QuickSort Partition Algorithm](partition sort.png?raw=true "Sample QuickSort Partition Algorithm")
 
 ## Test Cases
 ### Product
