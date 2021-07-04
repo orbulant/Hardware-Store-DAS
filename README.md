@@ -3,14 +3,11 @@ A Command-Line Interface Hardware Store Inventory and Transaction System that ut
 
 ### Sample Screenshots
 
-1. Generic Node Type<br />
+1. Generics usage by having a Generic Node Type<br />
 ![Generic Node Type](node.png?raw=true "Generic Node Type")
 
-2. Node Subtype<br />
-![Node Subtype](node.png?raw=true "Node Subtype")
-
-3. Sample QuickSort Partition Algorithm<br />
-![Sample QuickSort Partition Algorithm](partition sort.png)
+2. Sample QuickSort Partition Algorithm<br />
+![Sample QuickSort Partition Algorithm](https://github.com/orbulant/Hardware-Store-DAS/blob/5030fa688e0039f6b7fde20861d1036cc021fc6b/partition%20sort.png)
 
 ## Test Cases
 ### Product
