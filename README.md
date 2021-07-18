@@ -1,6 +1,8 @@
 # Hardware-Store-DAS
 A Command-Line Interface Hardware Store Inventory and Transaction System that utilizes data structure and algorithm
 
+This assignment was graded an A (GPA 3.7) by Asia Pacific University lecturers. A+ was not given due to the fact that we did not utilize other forms of data structures such as Trees, Graphs etc.
+
 ### Sample Screenshots
 
 1. Generics usage by having a Generic Node Type<br />
